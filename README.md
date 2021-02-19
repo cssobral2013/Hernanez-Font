@@ -1,5 +1,5 @@
 # Hernanez-Font
-Is forked from font Sora fonts.
+Is forked from Sora fonts.
 
 List of changes from upstream Sora:
 
